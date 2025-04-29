@@ -1,3 +1,5 @@
+![Emerald Heights Cover](./emerald_heights_cover.png)
+
 # 📖 Lore of the Emerald Heights
 
 ### Era I: The Forgotten Bridges (circa Year 1220 - 1450)
